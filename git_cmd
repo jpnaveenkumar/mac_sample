@@ -1,0 +1,10 @@
+1) git init  //in the directory of the project to create empty repo
+2) git add . // adding all the contents in the directory
+3) git commit -m "uploading files" //commiting the uploaded files in local repo
+4)git remote add origin https://github.com/jpnaveenkumar/openup.git
+5)git remote -v //displaying the remote repo
+6)git push origin master --force //pushing master branch to remote repo
+7)git branch //displays all the branch available
+8)git branch any_name // create a new branch
+9)git checkout any_branch_name //switch to the created branch
+10)git push -u origin any_branch_name //to push to branch to remote repo
