@@ -1,0 +1,113 @@
+Client ID: 1000.NKN5DJBL15CT4850684ZORDMXUD2VI
+Client Secret: 0561dc576deb2b49f7a3c33e95bfcea6c5b68fca30
+
+https://accounts.zoho.com/oauth/v2/auth
+?response_type=code&
+client_id=1000.NKN5DJBL15CT4850684ZORDMXUD2VI&
+scope=ZohoCRM.modules.all&
+redirect_uri=https://www.getpostman.com/oauth2/callback&
+&access_type=offline&
+prompt=consent
+
+https://app.getpostman.com/oauth2/callback?code=1000.469f5dc1f7da739dcf715c98f4769f59.157df88d7a4c8087caa413582502046a&location=us&accounts-server=https%3A%2F%2Faccounts.zoho.com&
+
+1000.469f5dc1f7da739dcf715c98f4769f59.157df88d7a4c8087caa413582502046a
+
+https://accounts.zoho.com/oauth/v2/token
+?client_id=1000.NKN5DJBL15CT4850684ZORDMXUD2VI&
+grant_type=authorization_code&
+client_secret=0561dc576deb2b49f7a3c33e95bfcea6c5b68fca30&
+redirect_uri=https://www.getpostman.com/oauth2/callback&
+code=1000.254df805f11fad8b7403a13689fc2d09.e70e6a896ccdcfe7e9e01ae7608aafcc
+
+{
+    "access_token": "1000.6880fc9e9e7b3b61d1b6c89e7d983dc0.62c3237f4c4d7b1c8929e65c3ef33366",
+    "expires_in_sec": 3600,
+    "api_domain": "https://www.zohoapis.com",
+    "token_type": "Bearer",
+    "expires_in": 3600000
+}
+
+Client ID: 1000.4F5LIBII6DRK685038D1D1SC8HLDCB
+Client Secret: d02092261a83cb47c18451e1eca89a433e5026e2ac
+
+https://accounts.zoho.com/oauth/v2/auth
+?response_type=code&
+client_id=1000.77NVB6I3G93Z50084WW9VRO5SDOJ08&
+scope=ZohoCRM.modules.all&
+redirect_uri=https://www.getpostman.com/oauth2/callback&
+prompt=consent&access_type=offline
+
+1000.24361fc52c028fa022ab04bca4cdc8e5.d33dcaaacf1d39aef01031b503ebaf24
+
+https://accounts.zoho.com/oauth/v2/token
+?client_id=1000.77NVB6I3G93Z50084WW9VRO5SDOJ08&
+grant_type=authorization_code&
+client_secret=2d6e7699ba2f9da864d8eddad9042cf5d02c4e31c6&
+redirect_uri=https://www.getpostman.com/oauth2/callback&
+code=1000.6ed8009d624a7d46782bbf323736ac2c.7871221af572954cf7db0e1972093a51
+
+1000.SL2O72VSV22280855G0EFVNBGU8HZW
+9b668375d13ccff8450af7a8a91c7af17c2674c251
+1000.3e5f2d43c3952572dfb38021bd3bf132.d33c2c10701b11240da0b743a1aa68d2
+
+1000.AGUI4XR8URNR03413BX9OEW365XADT - c
+e904602680893bd1ebb5c20b7fedc397930a8b72fd - cl
+1000.41c0190a76473059970dfdaec873c52d.d90349b700c2362877f2b03878ac980f - cd
+
+https://accounts.zoho.com/oauth/v2/auth
+?response_type=code&
+client_id=1000.SP9FR0I53PAR82462QDYSMMONHVPVR&
+scope=ZohoCRM.modules.all&
+redirect_uri=https://www.getpostman.com/oauth2/callback&
+prompt=consent
+
+https://accounts.zoho.com/oauth/v2/token?
+client_id=1000.SP9FR0I53PAR82462QDYSMMONHVPVR&
+grant_type=authorization_code&
+client_secret=4fc60f4222ac272b6d7ff4b37f412105eb406ecf05&
+redirect_uri=https://www.getpostman.com/oauth2/callback&
+code=1000.c60511d9484a6623a1434e2942f86b67.256b7cb28b5949fae86f5aab057d45b2
+
+https://app.getpostman.com/oauth2/callback?code=1000.41c0190a76473059970dfdaec873c52d.d90349b700c2362877f2b03878ac980f&location=us&accounts-server=https%3A%2F%2Faccounts.zoho.com&
+
+
+
+1000.c60511d9484a6623a1434e2942f86b67.256b7cb28b5949fae86f5aab057d45b2
+
+{"access_token":"1000.ac34cea14f73cf27dba9f42ed73b121a.632d451a6796ee0e450eb169445a1299","refresh_token":"1000.95f2ee1dbb7aa46777c6cc2a2f538ea4.479249a2419b83af2326b31b3affa7e2","expires_in_sec":3600,"api_domain":"https://www.zohoapis.com","token_type":"Bearer","expires_in":3600000}
+
+https://accounts.zoho.com/oauth/v2/token?
+client_id=1000.SP9FR0I53PAR82462QDYSMMONHVPVR&
+grant_type=authorization_code&
+client_secret=4fc60f4222ac272b6d7ff4b37f412105eb406ecf05&
+redirect_uri=https://www.getpostman.com/oauth2/callback&
+code=1000.6ed3cb35b719ebcf2082a87884d35a68.4967533412122931a6f310ef013af688
+
+1000.6ed3cb35b719ebcf2082a87884d35a68.4967533412122931a6f310ef013af688
+
+{
+    "access_token": "1000.e6ebdc6a9d5caaa2ec48ab4b3a206db7.06088437e8e4d4d018a9b575dbf09a15",
+    "expires_in_sec": 3600,
+    "api_domain": "https://www.zohoapis.com",
+    "token_type": "Bearer",
+    "expires_in": 3600000
+}
+
+refresh_token new :
+
+https://accounts.zoho.com/oauth/v2/token?
+client_id=1000.SP9FR0I53PAR82462QDYSMMONHVPVR&
+grant_type=refresh_token&
+client_secret=4fc60f4222ac272b6d7ff4b37f412105eb406ecf05&
+refresh_token=1000.95f2ee1dbb7aa46777c6cc2a2f538ea4.479249a2419b83af2326b31b3affa7e2
+
+
+https://accounts.zoho.com/oauth/v2/auth
+?response_type=code&
+client_id=1000.Q18GEPKYETOZ8630880QXWFNMV1T6X&
+scope=ZohoCRM.modules.all&
+redirect_uri=http://naveenkumarjp.000webhostapp.com/callback/redir.html&
+prompt=consent
+
+1000.d70e5c583b014a814b72b37f1cc6fbaf.635f1e3c16b714cc489271c2fb5fe591

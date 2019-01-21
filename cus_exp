@@ -1,0 +1,25 @@
+class namaException extends Exception
+{
+  public namaException(String msg)
+  {
+    super(msg);
+  }
+}
+class test
+{
+  public String checkAns(String fnd) throws namaException
+  {
+    if(fnd.equals("male"))
+      return "true";
+    else
+      throws new namaException("Invalid Answer");
+  }
+}
+public class cus_exp
+{
+  public static void main(String a[])
+  {
+    test t=new test();
+    t.checkAns("female");
+  }
+}

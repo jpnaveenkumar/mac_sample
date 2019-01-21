@@ -1,0 +1,14 @@
+import java.io.*;
+public class files
+{
+  public static void main(String a[])
+  {
+    FileWriter fw=new FileWriter("check.txt");
+    BufferedWriter bw=new BufferedWriter(fw);
+    bw.write("working da");
+    FileReader fr=new FileReader("check.txt");
+    BufferedReader br=new BufferedReader(fr);
+    String txt=br.read();
+    System.out.println(txt);
+  }
+}
